@@ -65,13 +65,13 @@ a {
 }
 
 #pass {
-    background: white url(/imgs/lock.png) left no-repeat; 
+    background: white url(imgs/lock.png) left no-repeat; 
     background-size: 30px 30px;
     background-position: 5% 50%;
 }
 
 #user {
-    background: white url(/imgs/user_2.png)  left no-repeat;
+    background: white url(imgs/user_2.png)  left no-repeat;
     background-size: 30px 30px;
     background-position: 5% 50%;
 }
