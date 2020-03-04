@@ -1,0 +1,9 @@
+.buttons{
+    display: inline;
+    text-align: center;
+}
+
+#out {
+    width: 450px;
+    background-color: aquamarine;
+}
