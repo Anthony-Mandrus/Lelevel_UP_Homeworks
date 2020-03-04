@@ -1,0 +1,24 @@
+.container{
+    text-align: center;
+}
+
+#text {
+    background-color:  lightslategray;
+    color: white;
+}
+
+
+button {
+    margin: 10px 5px;
+    border-style: none;
+    font-weight: 600;
+    font-size: 14px;
+}
+ ::placeholder { 
+    color: white;
+
+  }
+h1 {
+    background-color: lightslategray;
+   
+ }
